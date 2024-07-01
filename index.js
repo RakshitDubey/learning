@@ -14,3 +14,4 @@ function add(arr){
 
 }
 
+let name="Kiran"
